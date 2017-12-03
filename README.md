@@ -1,5 +1,5 @@
-# Golang AWS lambda
-An example of an AWS lambda function written in golang
+# AWS Lambda with Golang
+An example of an AWS lambda function written in golang. This function sends a slack message using incoming webhooks.
 
 # Setup
 ```
